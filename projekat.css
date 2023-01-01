@@ -1,0 +1,29 @@
+.forma {
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+
+}
+.prva-kutija {
+    height: 50px;
+    display: block;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.druga-kutija {
+    height: 50px;
+    background-color: white;
+    width: 45%;
+    display: inline-block;
+}
+.treca-kutija {
+    margin-left: 45px;
+}
+.cetvrta-kutija {
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+.peta-kutija {
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
